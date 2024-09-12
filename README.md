@@ -12,6 +12,7 @@ With EduDex, we aim to make the wealth of knowledge housed in universities and a
 This is a tool built by students and the free software community (open source), for students and researchers, with a commitment to supporting academic excellence. 
 We welcome and appreciate any support or networking opportunities that can help us grow and ensure that EduDex becomes available to the academic community as soon as possible.
 
+
 Key Features:
 
 International Collaboration: Students from universities and technical institutes across the globe are contributing to the development of EduDex, making it a truly international effort.

@@ -24,5 +24,7 @@ Multilingual Support: EduDex will be available in multiple languages, ensuring t
 
 Focus on Trusted Sources: Only verified academic institutions and whitelist-approved organizations will be indexed, ensuring that the content provided through EduDex is accurate, relevant, and of the highest quality.
 
-info@edudex.net
+email: info@edudex.net
+fb: bit.ly/edudex
+
 
